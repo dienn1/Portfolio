@@ -1,4 +1,4 @@
-#Portfolio
+# Portfolio
 ## Dungeon Creepy Crawlers
 Github link: https://github.com/josharaedwards/ICS167_DungeonBugs <br/><br/>
 I worked with 2 other teammates to design and develop a 2D Grid-based Turn-based game that is inspired by the Fire Emblem series. <br/>
